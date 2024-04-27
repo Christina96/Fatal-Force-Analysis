@@ -19,4 +19,4 @@ Geographical analysis is performed using choropleth maps to visualize police kil
 Additionally, we analyze the rate of death by race in the top 10 cities and explore the trend of police killings over time using a line plot.
 Insights and Interpretation:
 Through these visualizations and analyses, we aim to uncover patterns, trends, and disparities in fatal police shootings across various demographic and socioeconomic factors.
-Insights gained from the analysis can help inform discussions and policy decisions aim
+Insights gained from the analysis can help inform discussions and policy decisions aimed at addressing issues related to police violence, racial disparities, and community safety.
